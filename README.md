@@ -53,15 +53,10 @@
 
 <p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=oguzkaganfindik&"  alt="oguzkaganfindik" width="455"  height="200"/></p>
 
-  
-  
-
-<picture>
-
-<source  media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/oguzkaganfindik/oguzkaganfindik/output/github-contribution-grid-snake-dark.svg">
-
-<source  media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/oguzkaganfindik/oguzkaganfindik/output/github-contribution-grid-snake.svg">
-
-<img  alt="github contribution grid snake animation"  src="https://raw.githubusercontent.com/oguzkaganfindik/oguzkaganfindik/output/github-contribution-grid-snake.svg">
-
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oguzkaganfindik/oguzkaganfindik/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oguzkaganfindik/oguzkaganfindik/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oguzkaganfindik/oguzkaganfindik/output/github-contribution-grid-snake.svg">
 </picture>
+
+
