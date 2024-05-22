@@ -1,7 +1,7 @@
 
 <h1  align="center">Hi 👋, I'm Oğuzkağan</h1>
 
-<h3  align="center">Full Stack C# .NET Developer from Turkey</h3>
+<h3  align="center">Full Stack Software Developer from Turkey</h3>
 
   
 
