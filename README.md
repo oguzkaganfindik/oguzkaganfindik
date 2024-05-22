@@ -9,7 +9,7 @@
 
   
 
-- 🌱 I’m currently learning **C# .Net**
+- 🌱 I’m currently learning ** ASP.NET Core | ASP.NET Web API**
 
   
 
