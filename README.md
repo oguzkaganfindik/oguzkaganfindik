@@ -5,23 +5,23 @@
 
   
 
-- 🔭 I’m currently working on **programming**
+- 🔭 I’m currently engaged in programming
 
   
 
-- 🌱 I’m currently learning ** ASP.NET Core | ASP.NET Web API **
+- 🌱 My current focus: ASP.NET Core | ASP.NET Web API
 
   
 
-- 💬 Ask me about **anything**
+- 💬 Feel free to ask me about anything
 
   
 
-- 📫 How to reach me **oguzkaganfindikwork@gmail.com**
+- 📫 Contact me: oguzkaganfindikwork@gmail.com
 
   
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/oguzfindik/](https://www.linkedin.com/in/oguzfindik/)
+- 📄 Learn more about my experiences: [https://www.linkedin.com/in/oguzfindik/](https://www.linkedin.com/in/oguzfindik/)
 
   
 
