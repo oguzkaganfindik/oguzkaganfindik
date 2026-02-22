@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Oğuzkağan FINDIK</h1>
 <h3 align="center">Mechanical Engineer | Full Stack Developer | Data Scientist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oguzkaganfindik&label=Profile%20views&color=00ff00&style=flat" alt="oguzkaganfindik" />
-</p>
-
 ---
 
 ### >_ SYSTEM_OVERVIEW
-"Sanayi ve üretim tecrübesini, **Yazılım Mimarisi** ve **Veri Bilimi** yetkinlikleriyle birleştirerek uçtan uca çözümler üreten multidisipliner mühendis."
+"A multidisciplinary engineer creating end-to-end solutions by merging industrial and manufacturing experience with **Software Architecture** and **Data Science** expertise."
 
 - 🔭 **Current Focus:** Quantitative Data Analysis & Fintech AI
 - 🌱 **Learning Path:** ASP.NET Core 10 | Machine Learning Pipelines | Azure Cloud
 - 💬 **Ask me about:** Python, .NET, SQL, and Industrial Automation
 - 📫 **Contact:** [oguzkaganfindikwork@gmail.com](mailto:oguzkaganfindikwork@gmail.com)
-- 🌐 **Portfolio:** [oguzkaganfindik.github.io](https://oguzkaganfindik.github.io)
+- 🌐 **Portfolio:** [oguzkaganfindik.com](https://oguzkaganfindik.com)
 
 ---
 
@@ -23,7 +19,7 @@
 | Project | Stack | Status |
 | :--- | :--- | :--- |
 | **Quant Terminal & Fintech AI** | React, .NET 10, ML, PostgreSQL | [ONLINE](https://finance.oguzkaganfindik.com) |
-| **Boru Bükme & ML Classification** | Python, Scikit-Learn (ACC: 0.90) | [LIVE](https://pipebending.streamlit.app/) |
+| **Pipe Bending & ML Classification** | Python, Scikit-Learn (ACC: 0.90) | [LIVE](https://pipebending.streamlit.app/) |
 | **Cutting Force & Temp Prediction** | Python, GPR & KNN (R²≈0.99) | [LIVE](https://cuttingforcetempml.streamlit.app/) |
 | **TÜBİTAK Decision Support** | Research & Development | `ACCESS_PENDING` |
 
@@ -41,24 +37,7 @@
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" /></a>
 </p>
 
+
 ---
-
-### >_ STATS & CONTRIBUTIONS
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzkaganfindik&show_icons=true&locale=en&layout=compact&theme=matrix" alt="oguzkaganfindik" width="350" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzkaganfindik&show_icons=true&locale=en&theme=matrix" alt="oguzkaganfindik" width="455" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzkaganfindik&theme=matrix" alt="oguzkaganfindik" width="810" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oguzkaganfindik/oguzkaganfindik/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oguzkaganfindik/oguzkaganfindik/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oguzkaganfindik/oguzkaganfindik/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 <h3 align="center">● SYSTEM ONLINE</h3>
